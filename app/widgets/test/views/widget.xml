@@ -1,8 +1,8 @@
 <Alloy>
-	<View>
+	<Window>
 		<Label>I'm the default widget</Label>
 		<ImageView image="WPATH('test.png')" />
-	</View>
+	</Window>
 </Alloy>
 
 
