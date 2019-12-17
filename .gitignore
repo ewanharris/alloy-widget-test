@@ -9,4 +9,5 @@ tmp
 .map
 .project
 .settings
-
+Thumbs.db
+node_modules
