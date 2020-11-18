@@ -1,6 +1,6 @@
 <Alloy>
-	<Window id="index">
-		<Label>I'm the default widget</Label>
+	<Window id="index" layout="vertical">
+		<Label top="100">I'm the default widget</Label>
 		<ImageView image="WPATH('test.png')" />
 	</Window>
 </Alloy>

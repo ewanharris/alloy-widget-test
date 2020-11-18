@@ -1,6 +1,6 @@
 <Alloy>
 	<Widget src="test" id="index">
-		<!-- <Label id="aaa" text="aaa" />
-		<Label id="bbb" text="bbb" /> -->
+		<Label id="aaa" text="aaa" />
+		<Label id="bbb" text="bbb" />
 	</Widget>
 </Alloy>
